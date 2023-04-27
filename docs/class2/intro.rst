@@ -36,12 +36,12 @@ Getting Started
 The infrastructure is pre-built in UDF for your use and includes the following components:
 
 - GitLab-CE Server
-- Gitlab Runner
+- GitLab Runner
 - NGINX Plus
 - A Windows JumpHost
-- Staging, and Production environments
+- Staging and Production environments
 
-The **JumpHost** (Windows) is already set up with all the tools required to edit and commit changes to our Dockerfiles, example “Appster” Web Application and NGINX Plus configurations. **Run all lab activites from the JumpHost** The **Chrome web browser** has been set up with bookmarks to all the web applications you need for this lab.  **Shell access** to the Staging and Production environment is required for one excercise and is useful to look “under the hood” of deployments to Linux servers in a live environment.
+The **JumpHost** (Windows) is already set up with all the tools required to edit and commit changes to our Dockerfiles, example “Appster” Web Application and NGINX Plus configurations. **Run all lab activites from the JumpHost**. The **Chrome web browser** has been set up with bookmarks to all the web applications you need for this lab.  **Shell access** to the Staging and Production environment is required for one excercise and is useful to look “under the hood” of deployments to Linux servers in a live environment.
 
 Lab Topology and Credentials
 ----------------------------
